@@ -106,7 +106,7 @@ Esse índice resume a *saúde geral da marca*, permitindo comparar estratégias 
 
 ## Conclusão 
 
-A análise evidencia que a saúde de marca está diretamente ligada ao equilíbrio entre qualidade percebida, distribuição e força emocional.
+A análise evidencia que a saúde de marca está diretamente ligada ao equilíbrio entre qualidade percebida e distribuição.
 Marcas líderes, como Coca-Cola e Guaraná Antarctica, mantêm vantagem competitiva por conseguir combinar consistência de produto, presença de mercado e vínculo afetivo com o consumidor.
 
 Já Pepsi ocupa um espaço intermediário, competitiva, porém menos dominante no imaginário coletivo.
