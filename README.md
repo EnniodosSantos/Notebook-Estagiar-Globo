@@ -69,7 +69,7 @@ O objetivo é entender quais atributos mais impactam a popularidade de cada marc
 | ------------------------ | ------------------------------- | -------------------------------------------------------------------------------------------- |
 | **Sabor**                | +0.87                           | Forte correlação positiva — sabor é altamente determinante.                                  |
 | **Preço**                | +0.91                           | Forte correlação positiva — percepção de valor e preço equilibrado impulsionam popularidade. |
-| **Disponibilidade**      | +0.38                           | Correlação muito forte — marcas amplamente disponíveis são também as mais populares.|
+| **Disponibilidade**      | +0.98                           | Correlação muito forte — marcas amplamente disponíveis são também as mais populares.|
 | **Variedade de sabores** | +0.72                           | Correlação moderada — diversificação contribui para maior apelo de marca.                    |
 
 
